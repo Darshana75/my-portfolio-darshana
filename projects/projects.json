@@ -1,0 +1,119 @@
+[
+  { 
+    "name": "Event Management UI Design",
+    "desc": "Eventify is a clean, data-driven dashboard UI concept for event organizers, designed for easy booking management, attendee insights, and scalable user experience.",
+    "image": "ui04",
+    "category": "uiux",
+    "links": {
+      "view": "https://www.behance.net/gallery/231494243/Eventify-Event-Management-Dashboard-UI-Design"
+    }
+  },
+  { 
+    "name": "Distributor Management System",
+    "desc": "A web-based Distributor Management System to handle sales, purchases, inventory, returns, payments and reporting. Built with PHP, MySQL, HTML, CSS, JavaScript, jQuery, and Bootstrap.",
+    "image": "web08",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Darshana75/distributor-management-system",
+      "code": "https://github.com/Darshana75/distributor-management-system"
+    }
+  },
+  { 
+    "name": "Cloud Storage Service UI Design",
+    "desc": "A modern, user-centric UI design for a cloud storage platform focused on trust, clarity, and usability. With clean layouts and intuitive navigation.",
+    "image": "ui03",
+    "category": "uiux",
+    "links": {
+      "view": "https://www.behance.net/gallery/225886407/Cloudix-Cloud-Storage-Service-UI-Design-Concept"
+    }
+  },
+  { 
+    "name": "Cleaning Service App",
+    "desc": "A full-stack Cleaning Service Management System with user authentication and an admin panel. Built with React, Tailwind CSS, Node.js, Express, MongoDB, JWT and deployed on Vercel.",
+    "image": "web07",
+    "category": "web",
+    "links": {
+      "view": "https://cleaning-service-app-wine.vercel.app",
+      "code": "https://github.com/Darshana75/cleaning-service-app"
+    }
+  },
+  { 
+    "name": "Travel Website UI Design",
+    "desc": "A clean, vibrant UI designed in Canva to showcase Sri Lanka’s beauty. Combines tropical visuals with intuitive layout to inspire travel and exploration.",
+    "image": "ui02",
+    "category": "uiux",
+    "links": {
+      "view": "https://www.behance.net/gallery/225572317/Explore-Sri-Lanka-Travel-Website-UI-Design"
+    }
+  },
+  { 
+    "name": "Baby Care Management System",
+    "desc": "Built a web application to help mothers and midwives manage antenatal care efficiently, using HTML, CSS, JS, PHP, MySQL, and Figma for design.",
+    "image": "web06",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Darshana75/Baby-Care-Management-System",
+      "code": "https://github.com/Darshana75/Baby-Care-Management-System"
+    }
+  },
+  { 
+    "name": "Student Management System",
+    "desc": "Developed a PHP and MySQL web application. It allows users to add, edit, and delete student records, with data stored in a MySQL database.",
+    "image": "web05",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Darshana75/Student-Management-System",
+      "code": "https://github.com/Darshana75/Student-Management-System"
+    }
+  },
+  { 
+    "name": "Sun Crush Web UI Design",
+    "desc": "Designed a colorful web UI concept for a Sun Crush beverage brand, focusing on flavor-based themes and clean, user-friendly design using Figma.",
+    "image": "ui01",
+    "category": "uiux",
+    "links": {
+      "view": "https://www.behance.net/gallery/213570035/Sun-Crush-Web-UI-Design-Concept"
+    }
+  },
+  { 
+    "name": "Wizard's Flight Game",
+    "desc": "A browser-based, Harry Potter themed game created with HTML, CSS and JavaScript. This project demonstrates web development and basic game mechanics",
+    "image": "web04",
+    "category": "web",
+    "links": {
+      "view": "https://darshana75.github.io/Wizard-Flight-Game/",
+      "code": "https://github.com/Darshana75/Wizard-Flight-Game"
+    }
+  },
+  { 
+    "name": "Scientific Calculator",
+    "desc": "A user-friendly scientific calculator using HTML, CSS and JavaScript. The project improved my problem-solving and coding skills.",
+    "image": "web03",
+    "category": "web",
+    "links": {
+      "view": "https://darshana75.github.io/Scientific-Calculator/",
+      "code": "https://github.com/Darshana75/Scientific-Calculator"
+    }
+  },
+  {
+    "name": "Cricket Quiz Website",
+    "desc": "Created an cricket quiz website using HTML, CSS, and JavaScript, this interactive platform offers a collection of engaging quizzes that will test your cricket knowledge.",
+    "image": "web02",
+    "category": "web",
+    "links": {
+      "view": "https://darshana75.github.io/Cricket-Quiz-Website/",
+      "code": "https://github.com/Darshana75/Cricket-Quiz-Website"
+    }
+  },
+  {
+    "name": "Online Social Network Library System",
+    "desc": "Developed an Online Social Network Library System using HTML, CSS, Bootstrap, PHP and MySQL. Hosted with XAMPP and managed with Git.",
+    "image": "web01",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Darshana75/readbook",
+      "code": "https://github.com/Darshana75/readbook"
+    }
+  }
+  
+]
