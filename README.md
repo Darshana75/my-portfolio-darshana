@@ -33,10 +33,11 @@ cd portfolio-website
 ### 📸 Screenshots
 
 #### 💻 Desktop View
-<img width="1920" height="1080" alt="Screenshot (740)" src="https://github.com/user-attachments/assets/612e20cb-6244-4632-8aa6-1294189350fe" />
+<img width="1920" height="1080" alt="desktop view" src="https://github.com/user-attachments/assets/3165dcf6-561c-4d00-ade7-f623f0065fc9" />
 
 #### 📱 Mobile View
-(Insert screenshot here)
+![mobile view](https://github.com/user-attachments/assets/ef3fa69d-f8ce-40d1-bae3-0bbf7172588b)
+
 
 ### 📬 Contact Me
 
@@ -44,4 +45,4 @@ cd portfolio-website
 - 🐙 GitHub: https://github.com/Darshana75
 - ✉️ Email: darshanaprabath254@gmail.com
 
-💻 Designed by Darshana Prabath
+## 💻 Designed by Darshana Prabath
