@@ -1,5 +1,15 @@
 [
   { 
+    "name": "My Portfolio Website",
+    "desc": "A showcase of my work, skills, and journey as a Full-Stack Developer. Built with HTML, CSS, JavaScript and deployed on Vercel.",
+    "image": "web09",
+    "category": "web",
+    "links": {
+      "view": "https://darshanaprabath.vercel.app",
+      "code": "https://github.com/Darshana75/my-portfolio-darshana"
+    }
+  },
+  { 
     "name": "Event Management UI Design",
     "desc": "Eventify is a clean, data-driven dashboard UI concept for event organizers, designed for easy booking management, attendee insights, and scalable user experience.",
     "image": "ui04",
@@ -107,7 +117,7 @@
   },
   {
     "name": "Online Social Network Library System",
-    "desc": "Developed an Online Social Network Library System using HTML, CSS, Bootstrap, PHP and MySQL. Hosted with XAMPP and managed with Git.",
+    "desc": "Developed an online social network library system using HTML, CSS, Bootstrap, PHP and MySQL. Hosted with XAMPP and managed with Git.",
     "image": "web01",
     "category": "web",
     "links": {
