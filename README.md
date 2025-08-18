@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! 🚀
 
 This personal portfolio website showcasing my works, skills and journey as a Full Stack Developer and UI/UX Designer.
 
-🔗 Live Demo: 
+🔗 Live Demo: https://darshanaprabath.vercel.app 
 
 ### ✨ Features
 
@@ -33,7 +33,7 @@ cd portfolio-website
 ### 📸 Screenshots
 
 #### 💻 Desktop View
-(Insert screenshot here)
+<img width="1920" height="1080" alt="Screenshot (740)" src="https://github.com/user-attachments/assets/612e20cb-6244-4632-8aa6-1294189350fe" />
 
 #### 📱 Mobile View
 (Insert screenshot here)
