@@ -246,7 +246,7 @@ header .navbar ul li a:hover {
   padding: 1rem 0;
 }
 .home .btn {
-  margin-top: 1rem;
+  margin-top: 0.5rem;
   position: absolute;
   line-height: 0;
   padding: 2.4rem 1.8rem;
@@ -271,7 +271,7 @@ header .navbar ul li a:hover {
 /* social icons start */
 .socials {
   position: relative;
-  margin-top: 9rem;
+  margin-top: 8rem;
 }
 .socials .social-icons {
   padding-left: 0;
