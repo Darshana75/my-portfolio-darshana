@@ -744,6 +744,10 @@ header .navbar ul li a:hover {
 /* work section ends */
 
 /* experience section starts */
+.experience {
+  background: #ffffff;
+  min-height: 80vh;
+} 
 .experience .timeline {
   position: relative;
   max-width: 1200px;
